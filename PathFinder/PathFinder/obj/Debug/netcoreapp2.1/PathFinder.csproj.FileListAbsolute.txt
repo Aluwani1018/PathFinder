@@ -1,0 +1,11 @@
+C:\Users\cp346867\source\repos\PathFinder\PathFinder\bin\Debug\netcoreapp2.1\PathFinder.deps.json
+C:\Users\cp346867\source\repos\PathFinder\PathFinder\bin\Debug\netcoreapp2.1\PathFinder.runtimeconfig.json
+C:\Users\cp346867\source\repos\PathFinder\PathFinder\bin\Debug\netcoreapp2.1\PathFinder.runtimeconfig.dev.json
+C:\Users\cp346867\source\repos\PathFinder\PathFinder\bin\Debug\netcoreapp2.1\PathFinder.dll
+C:\Users\cp346867\source\repos\PathFinder\PathFinder\bin\Debug\netcoreapp2.1\PathFinder.pdb
+C:\Users\cp346867\source\repos\PathFinder\PathFinder\obj\Debug\netcoreapp2.1\PathFinder.csprojAssemblyReference.cache
+C:\Users\cp346867\source\repos\PathFinder\PathFinder\obj\Debug\netcoreapp2.1\PathFinder.csproj.CoreCompileInputs.cache
+C:\Users\cp346867\source\repos\PathFinder\PathFinder\obj\Debug\netcoreapp2.1\PathFinder.AssemblyInfoInputs.cache
+C:\Users\cp346867\source\repos\PathFinder\PathFinder\obj\Debug\netcoreapp2.1\PathFinder.AssemblyInfo.cs
+C:\Users\cp346867\source\repos\PathFinder\PathFinder\obj\Debug\netcoreapp2.1\PathFinder.dll
+C:\Users\cp346867\source\repos\PathFinder\PathFinder\obj\Debug\netcoreapp2.1\PathFinder.pdb
